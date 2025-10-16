@@ -1,4 +1,4 @@
-#RFC8805-For-AS34868,,,,
+#RFC8805-For-AS34868
 #prefix,country_code,region_code,city,postal
 103.139.222.0/24,IN,IN-WB,Howrah,711322
 103.139.223.0/24,IN,IN-WB,Howrah,711322
